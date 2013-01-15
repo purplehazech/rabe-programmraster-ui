@@ -1,0 +1,12 @@
+{
+	identifier: 'id',
+	label: 'name',
+	items: [
+		{ id: '0', name:'Der Montagmorgen', description:'', inCharge: 'Montagskrew', actions: ['<input type="button" data-dojo-type="dijit.form.Button" intermediateChanges="false" label="edit" iconClass="dijitNoIcon"></input>']},
+		{ id: '1', name:'Klangbecken', description:'', inCharge: 'Tinu', actions: ['<input type="button" data-dojo-type="dijit.form.Button" intermediateChanges="false" label="edit" iconClass="dijitNoIcon"></input>']},
+		{ id: '4' ,name:'Groovэxpress', description:'Groovie Tunes for groovie people.', inCharge: 'Indy', actions: ['<input type="button" data-dojo-type="dijit.form.Button" intermediateChanges="false" label="edit" iconClass="dijitNoIcon"></input>']},
+		{ id: '2', name:'Vegetables', description:'', inCharge: '', actions: ['<input type="button" data-dojo-type="dijit.form.Button" intermediateChanges="false" label="edit" iconClass="dijitNoIcon"></input>']},
+		{ id: '3', name:'Cereals', description:'', inCharge: '', actions: ['<input type="button" data-dojo-type="dijit.form.Button" intermediateChanges="false" label="edit" iconClass="dijitNoIcon"></input>']},
+		{ id: '-1', name:'', description:'', inCharge: '', actions: ['<input type="button" data-dojo-type="dijit.form.Button" intermediateChanges="false" label="edit" iconClass="dijitNoIcon"></input>']}
+	]
+}
